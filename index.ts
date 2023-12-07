@@ -1,5 +1,5 @@
 /**
- * Export astro components asd
+ * Export astro components
  * usage:
  * import { ComponentName } from 'astro-bootstrap';
  */
